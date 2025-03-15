@@ -40,7 +40,9 @@ This project is a web application designed to streamline the onboarding and offb
 
 ## Contributors
 - **J Victorino Zulueta**
-- [Other team members, if any]
+- **Cheena Maxine Silva**
+- **Kristine Daquil**
+- **Lou Salonga**
 
 ## License
 This project is for educational purposes and does not have a specified license.
